@@ -1,5 +1,5 @@
 /**
- * Greet a person with given a name
+ * Greet a person with a given a name
  * if the name is provided
  * 
  * @param {string} [inputName] 

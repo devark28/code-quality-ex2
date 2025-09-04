@@ -7,5 +7,5 @@
  * @returns {number}
  */
 export function findLarge(a, b, c) {
-    return Math.max([a, b, c]);
+    return Math.max(a, b, c);
 }

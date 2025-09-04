@@ -1,7 +1,7 @@
-import sum from 'sum.js';
+import {sum} from './sum';
 
 /**
- * Calculate sum of a given matrix
+ * Calculate a sum of a given matrix
  * 
  * @param {number[][]} matrix
  * @returns {number}
